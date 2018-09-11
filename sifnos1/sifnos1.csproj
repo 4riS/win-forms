@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E6929B9-3C63-4921-A922-1DCAC0E5FB7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sifnos1</RootNamespace>
+    <AssemblyName>sifnos1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutSifnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutSifnos.Designer.cs">
+      <DependentUpon>AboutSifnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractActivityForm.Designer.cs">
+      <DependentUpon>AbstractActivityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractBarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractBarForm.Designer.cs">
+      <DependentUpon>AbstractBarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractBeachForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractBeachForm.Designer.cs">
+      <DependentUpon>AbstractBeachForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractHikingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractHikingForm.Designer.cs">
+      <DependentUpon>AbstractHikingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractHotelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractHotelForm.Designer.cs">
+      <DependentUpon>AbstractHotelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractMenuForm.Designer.cs">
+      <DependentUpon>AbstractMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractProductForm.Designer.cs">
+      <DependentUpon>AbstractProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractRestaurantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractRestaurantForm.Designer.cs">
+      <DependentUpon>AbstractRestaurantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractSightsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbstractForms\AbstractSightsForm.Designer.cs">
+      <DependentUpon>AbstractSightsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calendar.Designer.cs">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Akropoli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Akropoli.Designer.cs">
+      <DependentUpon>Akropoli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Amugdalota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Amugdalota.Designer.cs">
+      <DependentUpon>Amugdalota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\AndreasArtemonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\AndreasArtemonas.Designer.cs">
+      <DependentUpon>AndreasArtemonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\AppVathy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\AppVathy.Designer.cs">
+      <DependentUpon>AppVathy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\ArchMuseum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\ArchMuseum.Designer.cs">
+      <DependentUpon>ArchMuseum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\ArxaioiPurgoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\ArxaioiPurgoi.Designer.cs">
+      <DependentUpon>ArxaioiPurgoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\BeachPlatisGualos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\BeachPlatisGualos.Designer.cs">
+      <DependentUpon>BeachPlatisGualos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForm.Designer.cs">
+      <DependentUpon>ContentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\cycladesHotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\cycladesHotel.Designer.cs">
+      <DependentUpon>cycladesHotel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Elies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Elies.Designer.cs">
+      <DependentUpon>Elies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Folie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Folie.Designer.cs">
+      <DependentUpon>Folie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\FolkloreMuseum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\FolkloreMuseum.Designer.cs">
+      <DependentUpon>FolkloreMuseum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Iliovasilemacs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Iliovasilemacs.Designer.cs">
+      <DependentUpon>Iliovasilemacs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\IOreaSifnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\IOreaSifnos.Designer.cs">
+      <DependentUpon>IOreaSifnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\KamKapsalos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\KamKapsalos.Designer.cs">
+      <DependentUpon>KamKapsalos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="music.cs" />
+    <Compile Include="SubMenuForms\HikingMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\HikingMenuForm.Designer.cs">
+      <DependentUpon>HikingMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\HotelMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\HotelMenuForm.Designer.cs">
+      <DependentUpon>HotelMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Mastelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Mastelo.Designer.cs">
+      <DependentUpon>Mastelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Melopitha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Melopitha.Designer.cs">
+      <DependentUpon>Melopitha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Nirides.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Nirides.Designer.cs">
+      <DependentUpon>Nirides.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Panhgyria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Panhgyria.Designer.cs">
+      <DependentUpon>Panhgyria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Poulati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Poulati.Designer.cs">
+      <DependentUpon>Poulati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Rebuthada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Rebuthada.Designer.cs">
+      <DependentUpon>Rebuthada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuForm.Designer.cs">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\BeachMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\BeachMenuForm.Designer.cs">
+      <DependentUpon>BeachMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\SightsMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\SightsMenuForm.Designer.cs">
+      <DependentUpon>SightsMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\RestaurantsMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\RestaurantsMenuForm.Designer.cs">
+      <DependentUpon>RestaurantsMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\BarMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\BarMenuForm.Designer.cs">
+      <DependentUpon>BarMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\ActivityMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\ActivityMenuForm.Designer.cs">
+      <DependentUpon>ActivityMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubMenuForms\ProductMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubMenuForms\ProductMenuForm.Designer.cs">
+      <DependentUpon>ProductMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ContentForms\Spilia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Spilia.Designer.cs">
+      <DependentUpon>Spilia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\ToDoloma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\ToDoloma.Designer.cs">
+      <DependentUpon>ToDoloma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\ToSteki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\ToSteki.Designer.cs">
+      <DependentUpon>ToSteki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Tselementes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Tselementes.Designer.cs">
+      <DependentUpon>Tselementes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Verina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Verina.Designer.cs">
+      <DependentUpon>Verina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContentForms\Vroulidia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContentForms\Vroulidia.Designer.cs">
+      <DependentUpon>Vroulidia.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutSifnos.resx">
+      <DependentUpon>AboutSifnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractActivityForm.resx">
+      <DependentUpon>AbstractActivityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractBarForm.resx">
+      <DependentUpon>AbstractBarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractBeachForm.resx">
+      <DependentUpon>AbstractBeachForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractHikingForm.resx">
+      <DependentUpon>AbstractHikingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractHotelForm.resx">
+      <DependentUpon>AbstractHotelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractMenuForm.resx">
+      <DependentUpon>AbstractMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractProductForm.resx">
+      <DependentUpon>AbstractProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractRestaurantForm.resx">
+      <DependentUpon>AbstractRestaurantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AbstractForms\AbstractSightsForm.resx">
+      <DependentUpon>AbstractSightsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calendar.resx">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Akropoli.resx">
+      <DependentUpon>Akropoli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Amugdalota.resx">
+      <DependentUpon>Amugdalota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\AndreasArtemonas.resx">
+      <DependentUpon>AndreasArtemonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\AppVathy.resx">
+      <DependentUpon>AppVathy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\ArchMuseum.resx">
+      <DependentUpon>ArchMuseum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\ArxaioiPurgoi.resx">
+      <DependentUpon>ArxaioiPurgoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\BeachPlatisGualos.resx">
+      <DependentUpon>BeachPlatisGualos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForm.resx">
+      <DependentUpon>ContentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\cycladesHotel.resx">
+      <DependentUpon>cycladesHotel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Elies.resx">
+      <DependentUpon>Elies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Folie.resx">
+      <DependentUpon>Folie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\FolkloreMuseum.resx">
+      <DependentUpon>FolkloreMuseum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Iliovasilemacs.resx">
+      <DependentUpon>Iliovasilemacs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\IOreaSifnos.resx">
+      <DependentUpon>IOreaSifnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\KamKapsalos.resx">
+      <DependentUpon>KamKapsalos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\HikingMenuForm.resx">
+      <DependentUpon>HikingMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\HotelMenuForm.resx">
+      <DependentUpon>HotelMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Mastelo.resx">
+      <DependentUpon>Mastelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Melopitha.resx">
+      <DependentUpon>Melopitha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Nirides.resx">
+      <DependentUpon>Nirides.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Panhgyria.resx">
+      <DependentUpon>Panhgyria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Poulati.resx">
+      <DependentUpon>Poulati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Rebuthada.resx">
+      <DependentUpon>Rebuthada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuForm.resx">
+      <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\BeachMenuForm.resx">
+      <DependentUpon>BeachMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\SightsMenuForm.resx">
+      <DependentUpon>SightsMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\RestaurantsMenuForm.resx">
+      <DependentUpon>RestaurantsMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\BarMenuForm.resx">
+      <DependentUpon>BarMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\ActivityMenuForm.resx">
+      <DependentUpon>ActivityMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubMenuForms\ProductMenuForm.resx">
+      <DependentUpon>ProductMenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ContentForms\Spilia.resx">
+      <DependentUpon>Spilia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\ToDoloma.resx">
+      <DependentUpon>ToDoloma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\ToSteki.resx">
+      <DependentUpon>ToSteki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Tselementes.resx">
+      <DependentUpon>Tselementes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Verina.resx">
+      <DependentUpon>Verina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContentForms\Vroulidia.resx">
+      <DependentUpon>Vroulidia.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\minimizeButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\closeButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\infoButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\helpButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\mainMenuBg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

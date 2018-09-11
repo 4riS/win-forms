@@ -1,0 +1,425 @@
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\Aristotelis\Desktop\alepis-baseline\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\alepis\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\George Sanidas\Dropbox\Visual Studio 2015\Projects\sifnos1\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Desktop\alepis-final\sifnos1\obj\Debug\sifnos1.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.Calendar.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\alepis-final\sifnos1\obj\Debug\sifnos1.Calendar.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Calendar.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\bin\Debug\sifnos1.exe.config
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\bin\Debug\sifnos1.exe
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\bin\Debug\sifnos1.pdb
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractActivityForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractBarForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractBeachForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractHikingForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractHotelForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractProductForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractRestaurantForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AbstractSightsForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Calendar.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Akropoli.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Amugdalota.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AndreasArtemonas.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AppVathy.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ArchMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ArxaioiPurgoi.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.BaseForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.BeachPlatisGualos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ContentForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.cycladesHotel.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Elies.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Folie.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.FolkloreMuseum.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Iliovasilemacs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.IOreaSifnos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.KamKapsalos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.LogInForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.HikingMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.HotelMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Mastelo.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Melopitha.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Nirides.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Panhgyria.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Poulati.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Rebuthada.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.RegisterForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.MainMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.BeachMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.SightsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.RestaurantsMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.BarMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ActivityMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ProductMenuForm.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Properties.Resources.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Spilia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ToDoloma.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.ToSteki.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Tselementes.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Verina.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.Vroulidia.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.csproj.GenerateResource.Cache
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AboutUs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.AboutSifnos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis2\sifnos1\obj\Debug\sifnos1.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AboutSifnos.resources
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.AboutUs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AboutSifnos.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.AboutUs.resources
+C:\Users\Aristotelis\Documents\Visual Studio 2015\Projects\Alepis\sifnos1\obj\Debug\sifnos1.csprojResolveAssemblyReference.cache
+C:\Users\gesanidas\Dropbox\Visual Studio 2015\Projects\ale\sifnos1\obj\Debug\sifnos1.csprojResolveAssemblyReference.cache
